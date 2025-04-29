@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Environment files (optional)
+*.env
