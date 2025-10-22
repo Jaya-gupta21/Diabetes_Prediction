@@ -23,3 +23,6 @@ Backend: Python
 Machine Learning: scikit-learn, pandas, numpy
 
 Model: Trained on the PIMA Diabetes Dataset (or your custom dataset)
+
+Username-admin
+Password-admin@25
